@@ -16,4 +16,35 @@ Welcome to my comprehensive portfolio documenting the completion of the **Tablea
 
 - **Certificate**: Tableau for Data Analytics Certificate
 - **Issued By**: LinkedIn Learning
-- **Skills Acquired**: Tables, Cards, Slicers, Buttons & Bookmarks, Visualizations, Drill Through, Power Query, Advanced Transformations, Append Vs Merge, M Language, DAX, Explicit Measures, Parameters and Dashboard Development
+
+## 📚 Table of Contents
+
+- [Ultimate Course Content](./course/)
+    - [Datasets](./course/datasets/)
+    - [Docs & Cheat Sheets](./course/docs/)
+    - [Tableau Files](./course/tableau-files/)
+- [Projects](./projects/)
+    - [Project 1](./projects/project-1/)
+    - [Project 2](./projects/project-2/)
+
+## 🚀 **Getting Started**
+
+### 📋 Prerequisites
+- **Tableau Public** (Free) - Download from [Tableau Public](https://www.tableau.com/products/public)
+
+## 🤝🏿 **Contributing**
+
+This portfolio represents my personal learning journey through the Power BI for Data Analytics Certificate. While this is primarily a showcase of my work, I welcome discussions, feedback, and collaborations on power bi projects.
+
+## 📧 **Contact**
+
+**Sanketh Ks**  
+- GitHub: [@Sankethks27](https://github.com/Sankethks27)
+- LinkedIn: [Sanketh Ks](https://www.linkedin.com/in/sanketh-ks-181962273/)
+- Email: sankethks27@gmail.com
+
+---
+
+⭐ **If you find this portfolio helpful or inspiring, please give it a star!** ⭐
+
+---
