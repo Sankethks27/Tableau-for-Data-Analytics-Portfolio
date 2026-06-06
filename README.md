@@ -23,7 +23,8 @@ Welcome to my comprehensive portfolio documenting the completion of the **Tablea
     - [Datasets](./course/datasets/)
     - [Tableau Files](./course/tableau-files/)
 - [Projects](./projects/)
-    - [Sales & Customer Dashboard Project](https://github.com/Sankethks27/Tableau-for-Data-Analytics-Portfolio/blob/main/projects/sales-dashboard-project/Sales%20%26%20Customer%20Dashboard%20Project%20Image.png)
+    - [Sales & Customer Dashboard Project](https://github.com/Sankethks27/Tableau-for-Data-Analytics-Portfolio/blob/main/projects/sales-dashboard-project/Sales%20%26%20Customer%20Dashboards.twbx)
+    - [Sales & Customer Dashboard Project Image](https://github.com/Sankethks27/Tableau-for-Data-Analytics-Portfolio/blob/main/projects/sales-dashboard-project/Sales%20%26%20Customer%20Dashboard%20Project%20Image.png)
 
 ## 🚀 **Getting Started**
 
