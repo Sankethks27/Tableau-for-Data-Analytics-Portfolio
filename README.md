@@ -19,9 +19,8 @@ Welcome to my comprehensive portfolio documenting the completion of the **Tablea
 
 ## 📚 Table of Contents
 
-- [Ultimate Course Content](./course/)
+- [Course](./course/)
     - [Datasets](./course/datasets/)
-    - [Docs & Cheat Sheets](./course/docs/)
     - [Tableau Files](./course/tableau-files/)
 - [Projects](./projects/)
     - [Project 1](./projects/project-1/)
